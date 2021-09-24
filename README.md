@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Passionate Python Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Myself :- 
 
 - 🔭 I’m currently working on **[SinX Userbot](https://github.com/TeamSinx/SinX-Userbot)**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mithunsidhaartham@gmail.com**
 
-- ⚡ Fun fact **I play games and Practice each and everything I learn daily.**
+- ⚡ To Contact Me Quickly Go To My [Telegram](https://t.me/aceduke_sinx)**
 
 ## 🚀 Languages and Tools:
 
